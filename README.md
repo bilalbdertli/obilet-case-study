@@ -20,8 +20,8 @@ The system follows a multi-stage pipeline, processing hotel room images to enabl
     *   **Process:** The initial set of 25 hotel room images, provided as URLs, were downloaded and saved locally into the `input-images/` directory. This ensures local access for processing.
 
 2.  **Image Analysis & Feature Extraction (Image-to-Text):**
-    *   **Script:** `analyze-images-llm.py` (conceptual, actual implementation used OpenAI API calls directly or via a similar script).
-    *   **Process:** Each downloaded image was analyzed using a powerful vision-language model (e.g., OpenAI's GPT-4 Vision). The model was prompted to extract key visual features from each room image.
+    *   **Script:** `analyze-images-llm.py` 
+    *   **Process:** Each downloaded image was analyzed using a powerful vision-language model (Llama4 Maverick 17B). The model was prompted to extract key visual features from each room image.
     *   **Output:** The extracted features (e.g., room type, capacity, view type, amenities) were structured and saved into `hotel_features.json`. Each entry in this JSON file maps an image identifier to its corresponding set of features, including the `original_url`.
 
 3.  **Textual Descriptor Generation & Vector Embedding:**
@@ -40,8 +40,8 @@ The system follows a multi-stage pipeline, processing hotel room images to enabl
 
 **3. Key Components and Technologies**
 
-*   **Programming Language:** Python 3.x
-*   **Image Downloading:** `requests` library.
+*   **Programming Language:** Python 3.11.9
+*   **Image Downloading:** Llama 4 API call .
 *   **Image Analysis (Image-to-Text):** Llama4 Maverick 17B was used for initial feature extraction.
 *   **Feature Storage:** JSON format (`hotel_features.json`).
 *   **Text Embedding:**
@@ -72,8 +72,7 @@ The `hotel_search.py` script successfully addressed the four specific user queri
     *   `https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_8.jpg`
 *   **4. Rooms with a maximum capacity of 4 people:**
     *   (List of 25 URLs as provided in the output, indicating all rooms met this criterion based on extracted capacity data).
-
-These results can also be found in `search_results.json` file.
+    *   These results can also be found in `search_results.json` file.
 **5. Semantic Search Capability**
 
 In addition to keyword search, the system incorporates vector-based semantic search. This allows for more nuanced, free-form queries. The `hotel_search.py` script includes a demonstration of this, where a query like "a cozy room with a nice ocean view and a place to work" returns semantically similar rooms based on their generated descriptors and embeddings. This provides a more flexible search experience beyond strict keyword matching.
