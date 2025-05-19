@@ -1,0 +1,42 @@
+{
+  "Double rooms with a sea view": [
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_13.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_14.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_17.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_21.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_23.jpg"
+  ],
+  "Rooms with a balcony and air conditioning, with a city view": [],
+  "Triple rooms with a desk": [
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_2.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_7.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_8.jpg"
+  ],
+  "Rooms with a maximum capacity of 4 people": [
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_1.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_10.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_11.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_12.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_13.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_14.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_15.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_16.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_17.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_18.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_19.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_2.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_20.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_21.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_22.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_23.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_24.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_25.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_3.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_4.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_5.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_6.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_7.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_8.jpg",
+    "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_9.jpg"
+  ]
+}

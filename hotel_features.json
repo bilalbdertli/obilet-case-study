@@ -1,0 +1,298 @@
+{
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_1.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "mountain view",
+    "amenities": [
+      "balcony",
+      "air conditioning",
+      "TV",
+      "bathtub",
+      "double sink"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/1.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_10.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "none visible",
+    "amenities": [
+      "desk",
+      "TV",
+      "air conditioning",
+      "wardrobe",
+      "nightstand",
+      "lamp"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/10.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_11.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "city view",
+    "amenities": [
+      "balcony"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/11.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_12.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "city view",
+    "amenities": [
+      "desk",
+      "TV",
+      "chair",
+      "table"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/12.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_13.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "sea view",
+    "amenities": [
+      "balcony"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/13.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_14.jpg": {
+    "room_type": "double",
+    "capacity": 3,
+    "view_type": "sea view",
+    "amenities": [
+      "desk",
+      "balcony",
+      "mirror"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/14.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_15.jpg": {
+    "room_type": "suite",
+    "capacity": 4,
+    "view_type": "sea view",
+    "amenities": [
+      "jacuzzi",
+      "balcony",
+      "TV",
+      "desk",
+      "air conditioning"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/15.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_16.jpg": {
+    "room_type": "single",
+    "capacity": 1,
+    "view_type": "city view",
+    "amenities": [
+      "desk",
+      "balcony"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/16.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_17.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "sea view",
+    "amenities": [
+      "balcony",
+      "TV is not visible but likely present"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/17.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_18.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "city view",
+    "amenities": [
+      "desk",
+      "balcony",
+      "TV"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/18.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_19.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "none visible",
+    "amenities": [
+      "desk",
+      "air conditioning",
+      "TV",
+      "phone",
+      "coffee maker",
+      "minibar",
+      "sitting area",
+      "balcony is not visible"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/19.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_2.jpg": {
+    "room_type": "triple",
+    "capacity": 3,
+    "view_type": "none visible",
+    "amenities": [
+      "desk",
+      "TV",
+      "towels",
+      "kettle"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/2.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_20.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "garden view",
+    "amenities": [
+      "balcony",
+      "TV"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/20.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_21.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "sea view",
+    "amenities": [
+      "balcony",
+      "TV",
+      "desk"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/21.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_22.jpg": {
+    "room_type": "double",
+    "capacity": 4,
+    "view_type": "city view",
+    "amenities": [
+      "balcony"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/22.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_23.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "sea view",
+    "amenities": [
+      "desk",
+      "balcony",
+      "air conditioning",
+      "TV"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/23.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_24.jpg": {
+    "room_type": "double",
+    "capacity": 3,
+    "view_type": "garden view",
+    "amenities": [
+      "desk",
+      "TV",
+      "nightstand",
+      "seating area"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/24.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_25.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "mountain view",
+    "amenities": [
+      "balcony",
+      "TV",
+      "desk",
+      "kettle"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/25.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_3.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "city view",
+    "amenities": [
+      "balcony",
+      "TV (not visible)",
+      "phone",
+      "lamp",
+      "nightstand"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/3.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_4.jpg": {
+    "room_type": "suite",
+    "capacity": 4,
+    "view_type": "none visible",
+    "amenities": [
+      "desk",
+      "balcony",
+      "TV",
+      "air conditioning",
+      "minibar",
+      "safe"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/4.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_5.jpg": {
+    "room_type": "double",
+    "capacity": 2,
+    "view_type": "none visible",
+    "amenities": [
+      "desk",
+      "TV",
+      "air conditioning",
+      "chair",
+      "stool",
+      "lamp",
+      "telephone"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/5.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_6.jpg": {
+    "room_type": "quadruple",
+    "capacity": 4,
+    "view_type": "none visible",
+    "amenities": [
+      "desk",
+      "TV",
+      "air conditioning"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/6.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_7.jpg": {
+    "room_type": "triple",
+    "capacity": 3,
+    "view_type": "none visible",
+    "amenities": [
+      "desk",
+      "balcony",
+      "TV",
+      "air conditioning",
+      "lamps on nightstands"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/7.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_8.jpg": {
+    "room_type": "triple",
+    "capacity": 3,
+    "view_type": "none visible",
+    "amenities": [
+      "desk",
+      "air conditioning",
+      "TV",
+      "telephone",
+      "wardrobe"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/8.jpg"
+  },
+  "https_s3.eu-central-1.amazonaws.com_static.obilet.com_CaseStudy_HotelImages_9.jpg": {
+    "room_type": "triple",
+    "capacity": 3,
+    "view_type": "none visible",
+    "amenities": [
+      "bedside lamps",
+      "telephones",
+      "wardrobe"
+    ],
+    "original_url": "https://static.obilet.com.s3.eu-central-1.amazonaws.com/CaseStudy/HotelImages/9.jpg"
+  }
+}
